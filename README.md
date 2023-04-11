@@ -1,5 +1,5 @@
 
-# Trabalho de Introdução á Programação | ESW01
+# Trabalho de Introdução à Programação | ESW01
 
 Trabalho Avaliativo para turma de Engenharia de Software(ESW01) da Fucapi
 
@@ -7,10 +7,10 @@ Trabalho Avaliativo para turma de Engenharia de Software(ESW01) da Fucapi
 ## Autores
 
 - Adria
-- Ruan Pinheiro Pereira
-- Gabriel Raposo
+- Ruan
+- Gabriel
 - Elissa
-- Rafael Ecliudes
+- Rafael
 - Guilherme
 
 
@@ -22,4 +22,7 @@ O aprendizado das linguagens de programação C e Portugol é fundamental para o
 ## Stack utilizada
 
 **C** e **Portugol**
+
+
+![Logo](https://i.imgur.com/muuASwf.png)
 
