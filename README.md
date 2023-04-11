@@ -24,5 +24,5 @@ O aprendizado das linguagens de programação C e Portugol é fundamental para o
 **C** e **Portugol**
 
 
-![Logo](https://imgur.com/4vyHsZa.png)
+![Logo](https://i.imgur.com/muuASwf.png)
 
