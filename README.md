@@ -1,5 +1,5 @@
 
-# Trabalho de Introdução á Programação | ESW01
+# Trabalho de Introdução à Programação | ESW01
 
 Trabalho Avaliativo para turma de Engenharia de Software(ESW01) da Fucapi
 
