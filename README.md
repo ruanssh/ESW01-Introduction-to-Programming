@@ -21,7 +21,8 @@ O aprendizado das linguagens de programação C e Portugol é fundamental para o
 
 ## Stack utilizada
 
-**C** e **Portugol**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![portugol](https://img.shields.io/badge/-PORTUGOL-green?style=for-the-badge&logo=P&logoColor=white)
 
 
 ![Logo](https://i.imgur.com/muuASwf.png)
