@@ -25,5 +25,5 @@ O aprendizado das linguagens de programação C e Portugol é fundamental para o
 ![portugol](https://img.shields.io/badge/-PORTUGOL-green?style=for-the-badge&logo=P&logoColor=white)
 
 
-![Logo](https://i.imgur.com/muuASwf.png)
+
 
