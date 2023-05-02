@@ -6,13 +6,12 @@ Trabalho Avaliativo para turma de Engenharia de Software(ESW01) da Fucapi
 
 ## Autores
 
-- Adria
-- Ruan
-- Gabriel
-- Elissa
-- Rafael
-- Guilherme
-
+- Adria Rosa
+- Carlos Gabriel
+- Elissa Melo
+- Ruan Pereira
+- Rafael Euclides 
+- Guilherme Perrucci 
 
 ## Aprendizados
 
